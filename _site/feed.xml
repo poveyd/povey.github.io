@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog-title - to be confirmed</title>
+    <description>A blog on how to make your technical product easier to use</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The first post in the blog</title>
+        <description>&lt;p&gt;In case you haven’t realised, this is the first post in this blog. Thanks for reading.&lt;/p&gt;
+
+&lt;p&gt;I’m not going to say much (this is only a test after all). In fact, most posts in the blog will be quite short, just hints and suggestions you may or may not find useful.&lt;/p&gt;
+
+&lt;p&gt;The blog is about making it easier to use your software product. Your software product could be an api, a library or a service such as a website or an application downloaded onto someone’s computer. If your customer can use it easily, they’ll be happy, hopefully use it some more and tell their friends about it. Everyone’s happy!&lt;/p&gt;
+
+&lt;p&gt;There are lots of aspects to usability, but I just want to take one example below which I thought about when setting up this blog about 10 minutes ago. The example is the title of this website.&lt;/p&gt;
+
+&lt;p&gt;Initially I wrote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A blog on how to to make it easier for people to use your software product”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Then I rewrote it as:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A blog on how to make your software product easier to use&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I much prefer the second one, it’s more direct, less passive and shorter. Which do you prefer? Can you make the messages on your product or website shorter and clearer…?&lt;/p&gt;
+
+&lt;p&gt;I’ll leave you with one last advert, which sums it up:&lt;/p&gt;
+
+&lt;p&gt;vw advert&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Mar 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2018/03/29/first-post-in-this-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/29/first-post-in-this-blog/</guid>
+      </item>
+    
+  </channel>
+</rss>
