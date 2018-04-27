@@ -4,7 +4,7 @@ email:       simpleclearusable@gmail.com
 author:      D.Povey
 description: "A blog on how to make your technical product easier to use"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://simpleclearusable.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
