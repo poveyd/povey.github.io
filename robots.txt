@@ -1,2 +1,17 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
+User-agent: Wget/1.6
+Disallow: /
+
+User-agent: Wget/1.5.3
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
 User-agent: *
 Disallow: /
